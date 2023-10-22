@@ -1,0 +1,15 @@
+{
+  "name": "testtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "peerjs --port='3000'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peer": "^1.0.1"
+  }
+}
